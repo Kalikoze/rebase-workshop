@@ -24,13 +24,10 @@ I will permit it to pass over me and through me.
 And when it has gone past, I will turn the inner eye to see its path.
 Where the fear has gone there will be nothing. Only I will remain."
 
-RECOMMENDED MODULES
+RECOMMENDED USE
 -------------------
-- Eget nunc 
-- Scelerisque viverra mauris 
-- Vulputate enim 
-- Nulla aliquet 
-- Porttitor lacus
+- Repeat before interviews
+- Repeat before rebasing
 
 INSTALLATION
 ------------
@@ -43,7 +40,7 @@ INSTALLATION
 
 CONFIGURATION
 -------------
-Bibendum est ultricies integer quis auctor elit sed vulputate mi. Quis eleifend quam adipiscing vitae. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada nunc. Nam libero justo laoreet sit amet cursus sit. Fames ac turpis egestas maecenas pharetra convallis. Vel fringilla est ullamcorper eget.
+English language construction based on historical quotes
 
 TROUBLESHOOTING
 ---------------
