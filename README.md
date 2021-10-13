@@ -14,9 +14,15 @@ CONTENTS OF THIS FILE
 ------------
 This is just a base template for a README with `Lorem Ipsum`, used for the [Rebase Workflow Workshop](https://mod4.turing.edu/lessons/rebase-workflow-workshop.html) session.
 
-REQUIREMENTS
+The Litany against Fear
 ------------
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum facilisis leo vel fringilla est ullamcorper eget. Eget arcu dictum varius duis. At imperdiet dui accumsan sit amet. Ullamcorper a lacus vestibulum sed arcu non odio. Aliquet eget sit amet tellus cras. Nibh praesent tristique magna sit amet purus gravida. Facilisi etiam dignissim diam quis enim lobortis scelerisque fermentum.
+"I must not fear.
+Fear is the mind-killer.
+Fear is the little-death that brings total obliteration.
+I will face my fear.
+I will permit it to pass over me and through me.
+And when it has gone past, I will turn the inner eye to see its path.
+Where the fear has gone there will be nothing. Only I will remain."
 
 RECOMMENDED MODULES
 -------------------
