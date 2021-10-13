@@ -20,11 +20,10 @@ Create a new branch called branch1
 
 RECOMMENDED MODULES
 -------------------
-- Eget nunc 
-- Scelerisque viverra mauris 
-- Vulputate enim 
-- Nulla aliquet 
-- Porttitor lacus
+- Mod1
+- Mod2
+- Mod3
+- Mod4
 
 INSTALLATION
 ------------
