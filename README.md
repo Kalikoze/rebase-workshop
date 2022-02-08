@@ -24,6 +24,7 @@ RECOMMENDED MODULES
 - Vulputate enim 
 - Nulla aliquet 
 - Porttitor lacus
+- all of the above
 
 INSTALLATION
 ------------
