@@ -13,6 +13,7 @@ I'm adding some text here.
 
  INTRODUCTION
  Some more text here as well.
+ And some more here too.
 ------------
 This is just a base template for a README with `Lorem Ipsum`, used for the [Rebase Workflow Workshop](https://mod4.turing.edu/lessons/rebase-workflow-workshop.html) session.
 
